@@ -1,7 +1,8 @@
 {
     "name": "fcc-timestamp-ms",
     "version": "1.0.0",
-    "description": "FreeCodeCamp TimeStamp Microservices Assignment using expressjs",
+    "author": "amit.bhoraniya",
+    "description": "FreeCodeCamp TimeStamp Microservices Assignment using express",
     "main": "index.js",
     "scripts": {
         "start": "nodemon index.js"
@@ -12,5 +13,10 @@
     "devDependencies": {
         "nodemon": "1.18.4"
     },
-    "keywords": []
+    "keywords": [
+        "freecodecamp",
+        "nodejs",
+        "express"
+    ],
+    "license": "MIT"
 }
