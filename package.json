@@ -1,0 +1,16 @@
+{
+    "name": "fcc-timestamp-ms",
+    "version": "1.0.0",
+    "description": "FreeCodeCamp TimeStamp Microservices Assignment using expressjs",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "express": "4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "1.18.4"
+    },
+    "keywords": []
+}
